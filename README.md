@@ -45,28 +45,6 @@ Assignments included small-scale implementations to reinforce OOP concepts, culm
 
 ---
 
-## How to Run
-
-Compile and run using the Java compiler or your preferred IDE:
-
-```bash
-javac AddressBook.java Contact.java
-java AddressBook
-```
-
-For the **Fitness Tracker** project, follow the run instructions in its [repository README](https://github.com/rren4000/MyPersonalizedFitnessTracker).
-
----
-
-## What to Look For
-
-* Small-scale OOP exercises showing understanding of encapsulation and modularity.
-* Large-scale project applying OOP principles to a real-world problem domain.
-* Clear separation of concerns in multi-class architecture.
-* Complete design documentation for the final project.
-
----
-
 ## Portfolio Note
 
 This repository is part of my academic and professional coding portfolio.
